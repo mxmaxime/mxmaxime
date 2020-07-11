@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Maxime 👋
+
+I'm a software engineer at Airbus working on software to help people to do their job more efficiently.
+I'm working for the Quality department, my goal is to legerage the power of data to bring value. To do so, I have two hats:
+- understand how people work and what they need.
+- develop data driven software.
 
 <!--
 **mxmaxime/mxmaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
