@@ -1,9 +1,12 @@
 ### Hi there, I'm Maxime 👋
 
-I'm a software engineer at Airbus working on software to help people to do their job more efficiently.
-I'm working for the Quality department, my goal is to legerage the power of data to bring value. To do so, I have two hats:
-- understand how people work and what they need.
-- develop data driven software.
+- ✈️ I'm currently working at Airbus France <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> as a software engineer
+- ⚙️ I use daily: Python (Pandas, PySpark, Django), Javascript (VueJS, NuxtJS, NodeJS), Docker, PostgreSQL
+- 🌱 I’m currently learning Machine learning field. It's really vast, I'm at the begining, discovering!
+- :arrow_backward: I was using: PHP (Laravel) for my previous work
+- 📫 Reach me: https://twitter.com/EmixMaxime
+- 💬 We can discuss on Twitter
+- Beside's programming, I love traveling & psychology. Oh my dear country side :ear_of_rice:
 
 <!--
 **mxmaxime/mxmaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
