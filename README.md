@@ -1,11 +1,10 @@
 ### Hi there, I'm Maxime 👋
 
-- ✈️ I'm currently working at Airbus France <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> as a software engineer
-- ⚙️ I use daily: Python (Pandas, PySpark, Django), Javascript (VueJS, NuxtJS, NodeJS), Docker, PostgreSQL
+- ✈️ I'm currently working at Airbus France <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> as a software/lead engineer
+- ⚙️ I use daily: **Python** to analyze data :bar_chart: (Pandas, PySpark) & to create backend webapp (Flask, Django), **Javascript** (VueJS, NuxtJS, NodeJS), Docker...
 - 🌱 I’m currently learning Machine learning field. It's really vast, I'm at the begining, discovering!
-- :arrow_backward: I was using: PHP (Laravel) for my previous work
-- 📫 Reach me: https://twitter.com/EmixMaxime
-- 💬 We can discuss on Twitter
+- :books: I will hopefuly graduate in computer science in september 2021!
+- 💬 We can discuss on [Twitter](https://twitter.com/EmixMaxime) about pretty much anything.
 - Beside's programming, I love traveling & psychology. Oh my dear country side :ear_of_rice:
 
 <!--
