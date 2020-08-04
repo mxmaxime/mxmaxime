@@ -3,7 +3,7 @@
 - ✈️ I'm currently working at Airbus France <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> as a software/lead engineer
 - ⚙️ I use daily: **Python** to analyze data :bar_chart: (Pandas, PySpark) & to create backend webapp (Flask, Django), **Javascript** (VueJS, NuxtJS, NodeJS), Docker...
 - 🌱 I’m currently learning Machine learning field. It's really vast, I'm at the begining, discovering!
-- :books: I will hopefuly graduate in computer science in september 2021!
+- :books: I will hopefully graduate in computer science in September 2021!
 - 💬 We can discuss on [Twitter](https://twitter.com/EmixMaxime) about pretty much anything.
 - Beside's programming, I love traveling & psychology. Oh my dear country side :ear_of_rice:
 
