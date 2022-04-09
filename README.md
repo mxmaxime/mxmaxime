@@ -1,24 +1,10 @@
-### Hi there, I'm Maxime 👋
+### Hi there, I'm Maxime 👋 :fr:
 
-- ✈️ I'm currently working at Airbus France <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> as a software/lead engineer
-- ⚙️ I use daily: **Python** to analyze data :bar_chart: (Pandas, PySpark) & to create backend webapp (Flask, Django), **Javascript** (VueJS, NuxtJS, NodeJS), Docker...
-- 🌱 I’m currently learning Machine learning field. It's really vast, I'm at the begining, discovering!
-- :books: I will hopefully graduate in computer science in September 2021!
+- I'm a Software Engineer at OVHcloud, previously at Airbus ✈️
+- :zap: I fall into the kettle of magic potion in 2012 by coding in C/PHP with some Arduino's and RaspberryPi's!
+- :construction_worker: Most used languages: Go, Python, JavaScript, Perl.
+- :ear_of_rice: Beside's programming, I love traveling, hiking, biking. Oh my dear country side.
+- :house_with_garden: Main project: [Bobby home](https://github.com/bobby-home/bobby-home), your open source alarm to leave your home with a peace of mind.
 - 💬 We can discuss on [Twitter](https://twitter.com/EmixMaxime) about pretty much anything.
-- Beside's programming, I love traveling & psychology. Oh my dear country side :ear_of_rice:
 
-<!--
-**mxmaxime/mxmaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![gopher dancing](./dancing-gopher.gif)
