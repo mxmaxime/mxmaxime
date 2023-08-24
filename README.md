@@ -1,6 +1,6 @@
 ### Hi there, I'm Maxime 👋 :fr:
 
-- I'm a Software Engineer at Fruitz, previously at OVHcloud & Airbus ✈️
+- I'm a Software Engineer at Fruitz 🍑, previously at OVHcloud & Airbus ✈️
 - :zap: I fall into the kettle of magic potion in 2012 by coding in C/PHP with some Arduino's and RaspberryPi's!
 - :construction_worker: Most used languages: Go, JavaScript, Python.
 - :computer: Linux, vim lover.
